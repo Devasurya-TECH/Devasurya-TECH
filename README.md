@@ -33,7 +33,6 @@ Building Production-Ready AI Applications with Machine Learning & Django
 <img src="https://img.shields.io/github/followers/Devasurya-TECH?style=flat&color=8A2BE2"/>
 <img src="https://img.shields.io/github/stars/Devasurya-TECH?affiliations=OWNER&style=flat&color=8A2BE2"/>
 </p>
----
 
 # 💫 About Me
 
@@ -76,3 +75,87 @@ https://django-first-project-gqjo.onrender.com/
 ### 💻 Repository
 
 https://github.com/Devasurya-TECH/TalentIQ-AI-Powered-Employee-Analytics
+
+---
+
+# 💻 Tech Stack
+
+<div align="center">
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,c,mysql"/>
+</p>
+
+### Machine Learning & Data Science
+
+<p>
+<img src="https://skillicons.dev/icons?i=sklearn"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge"/>
+</p>
+
+### Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=django"/>
+<img src="https://img.shields.io/badge/Django_REST_Framework-ff1709?style=for-the-badge"/>
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap"/>
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,sqlite"/>
+</p>
+
+### Tools & Deployment
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
+</p>
+
+</div>
+
+---
+
+# 🧠 AI / ML Expertise
+
+| Domain | Status | Technologies |
+|---------|:------:|-------------|
+| Data Analysis | ✅ | Pandas, NumPy, EDA |
+| Data Preprocessing | ✅ | Cleaning, Encoding, Feature Engineering |
+| Regression | ✅ | Linear, Ridge, Lasso |
+| Classification | ✅ | Logistic Regression, KNN, Decision Tree, SVM |
+| Model Evaluation | ✅ | MAE, MSE, RMSE, R², Accuracy, Precision, Recall, F1 |
+| Backend Integration | ✅ | Django + Machine Learning |
+| Deployment | ✅ | Render |
+| Current Learning | 🔄 | Random Forest & Ensemble Learning |
+| Upcoming | ⏳ | XGBoost, Deep Learning, NLP, MLOps |
+
+---
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Devasurya-TECH&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devasurya-TECH&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Devasurya-TECH&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
