@@ -159,3 +159,138 @@ https://github.com/Devasurya-TECH/TalentIQ-AI-Powered-Employee-Analytics
 </div>
 
 ---
+# 🚀 Featured Projects
+
+## 🌟 TalentIQ – AI-Powered Employee Analytics Platform
+
+> **An end-to-end AI-powered HR Analytics platform built using Django and Machine Learning.**
+
+TalentIQ helps organizations make smarter workforce decisions by combining predictive analytics with a modern web application.
+
+### 🎯 Features
+
+- 📈 Salary Prediction (Regression)
+- 📊 Employee Attrition Prediction (Classification)
+- 📂 Batch CSV Prediction
+- 📉 Workforce Analytics Dashboard
+- 📝 Prediction History
+- 📄 Download Reports (CSV / Excel / PDF)
+- 🤖 AI Model Information
+- 🔐 Authentication System
+- 🌍 Live Deployment
+
+### 🛠 Tech Stack
+
+| Category | Technologies |
+|-----------|--------------|
+| Machine Learning | Scikit-learn, Pandas, NumPy |
+| Backend | Django |
+| Frontend | HTML, CSS, Bootstrap, JavaScript |
+| Database | SQLite |
+| Deployment | Render |
+| Version Control | Git & GitHub |
+
+### 🔗 Links
+
+🌐 **Live Demo:**  
+https://django-first-project-gqjo.onrender.com/
+
+💻 **Repository:**  
+https://github.com/Devasurya-TECH/TalentIQ-AI-Powered-Employee-Analytics
+
+---
+
+## 🌐 Personal Portfolio
+
+A modern portfolio showcasing my projects, skills, and AI/ML journey.
+
+🔗 https://personal-portfolio-v2-eight.vercel.app/
+
+---
+
+## 🚀 More Projects Coming Soon
+
+I'm currently expanding my portfolio with projects in:
+
+- 🌲 Random Forest & Ensemble Learning
+- ⚡ XGBoost
+- 🧠 Deep Learning
+- 👁 Computer Vision
+- 💬 Natural Language Processing (NLP)
+- 🤖 Large Language Models (LLMs)
+- ☁️ MLOps & Deployment
+
+---
+# 📚 AI/ML Learning Journey
+
+```text
+Programming                 ✅
+SQL                         ✅
+Django                      ✅
+Django REST Framework       ✅
+
+Machine Learning
+
+Regression                  ✅
+Classification              ✅
+
+Project Development
+
+TalentIQ                    ✅
+
+Current
+
+Random Forest               🔄
+
+Upcoming
+
+XGBoost                     ⏳
+Clustering                  ⏳
+Dimensionality Reduction    ⏳
+Deep Learning               ⏳
+Computer Vision             ⏳
+NLP                         ⏳
+Transformers                ⏳
+LLMs                        ⏳
+MLOps                       ⏳
+```
+# 🏆 Achievements
+
+- ✅ Built and deployed an end-to-end AI-powered HR Analytics platform.
+- ✅ Integrated Machine Learning models into a Django web application.
+- ✅ Deployed a production-ready application on Render.
+- ✅ Built a responsive dashboard with analytics and reporting features.
+- ✅ Continuously documenting and sharing my AI/ML learning journey through GitHub and LinkedIn.
+# 📬 Let's Connect
+
+<p align="center">
+
+<a href="mailto:devasurya669@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/devasurya-m-489934361/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://personal-portfolio-v2-eight.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/DEVASURYA_M/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+> *"Building AI solutions that solve real-world problems, one project at a time."*
+
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:6C63FF,50:8A2BE2,100:4B0082&section=footer"/>
+</p>
