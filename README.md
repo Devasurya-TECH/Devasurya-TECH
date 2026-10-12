@@ -9,7 +9,7 @@ Building intelligent, data-driven applications by combining Machine Learning, ba
 <tr>
 <td align="center">
 
-<img src="assets/portrait.svg" alt="ASCII portrait of Devasurya M" width="380">
+<img src="assets/ai-neural-network.png" alt="Abstract AI and machine-learning neural network illustration" width="380">
 
 </td>
 <td>
